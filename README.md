@@ -1,6 +1,5 @@
 # Core-Computing-Concepts
 
-**Subject:** Core Computing Concepts
 **Course Code:** 19CS556
 
 ```text
