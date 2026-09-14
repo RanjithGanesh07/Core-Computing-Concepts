@@ -1,5 +1,10 @@
 # Exercise 1(a): Program to Implement FCFS Scheduling
 
+```
+Name: Ranjith Ganesh B.
+Reg No: 212223060222
+```
+
 ## Aim
 
 To write and execute a C program to implement the **First Come First Serve (FCFS) CPU Scheduling Algorithm** and calculate the **Waiting Time** and **Turnaround Time** for each process.
